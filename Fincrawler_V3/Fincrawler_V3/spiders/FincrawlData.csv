@@ -1,0 +1,42 @@
+advice,currency,date,goal,guru,stock
+,EUR,,,,
+Kopen,EUR,10 jul,19.40,Goldman Sachs,RELX
+Verkopen,EUR,10 jul,46.50,Goldman Sachs,Unilever
+Houden,EUR,07 jul,5.40,Kepler Capital Markets,Aegon
+Kopen,EUR,07 jul,19.90,Barclays,RELX
+Kopen,EUR,07 jul,42.80,Barclays,Wolters Kluwer
+Kopen,EUR,07 jul,85.00,Barclays,Heineken
+Kopen,EUR,07 jul,50.00,Barclays,Unilever
+Houden,EUR,07 jul,82.00,JP Morgan,Heineken
+Houden,EUR,07 jul,35.00,Berenberg,Wolters Kluwer
+Kopen,EUR,07 jul,17.30,ABN AMRO,ING Groep
+Kopen,EUR,06 jul,17.00,TGB,ING Groep
+Kopen,EUR,06 jul,40.00,JP Morgan,NN Group
+Houden,EUR,06 jul,27.50,Morgan Stanley,Philips
+Kopen,EUR,06 jul,19.30,Morgan Stanley,RELX
+Kopen,EUR,06 jul,5.30,TGB,Aegon
+Kopen,EUR,06 jul,40.50,TGB,Wolters Kluwer
+Verkopen,EUR,06 jul,17.90,TGB,RELX
+Kopen,EUR,06 jul,25.00,TGB,ArcelorMittal
+Houden,EUR,06 jul,52.00,TGB,Unilever
+Verkopen,EUR,06 jul,87.00,TGB,Heineken
+Houden,EUR,05 jul,30.00,ING,Boskalis
+Houden,EUR,05 jul,17.50,Barclays,SBM Offshore
+Kopen,EUR,03 jul,34.00,JP Morgan,Philips
+Houden,EUR,30 jun,86.00,Jefferies & Co.,Heineken
+Kopen,EUR,30 jun,40.00,Goldman Sachs,Philips
+Houden,EUR,30 jun,23.50,Kepler Capital Markets,Royal Dutch Shell
+Houden,EUR,30 jun,54.00,JP Morgan,Unilever
+Kopen,EUR,30 jun,95.00,UBS,Heineken
+Kopen,EUR,29 jun,35.00,Exane BNP Paribas,NN Group
+Houden,EUR,29 jun,33.00,Independent Research,Philips
+Kopen,EUR,29 jun,105.00,Investec,Heineken
+Houden,EUR,29 jun,50.00,Investec,Unilever
+Houden,EUR,27 jun,21.00,Morgan Stanley,Ahold Delhaize
+Houden,EUR,26 jun,16.00,DeGroof Petercam,ING Groep
+Kopen,EUR,26 jun,37.00,Credit Suisse,NN Group
+Kopen,EUR,26 jun,94.00,Goldman Sachs,Galapagos
+Kopen,EUR,23 jun,62.00,ING,Unilever
+Kopen,EUR,23 jun,21.10,Credit Suisse,RELX
+Kopen,EUR,23 jun,165.00,Bank of America Merrill Lynch,ASML
+Kopen,EUR,23 jun,21.00,ING,Ahold Delhaize
