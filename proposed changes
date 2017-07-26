@@ -1,0 +1,13 @@
+0
+	Delete double entries in Python
+	Replace tables with new tables
+1
+	Read DB in Python
+2
+	Compare new lines to DB
+3
+	If not in DB, then add to insert list
+4
+	Repeat
+5
+	Add insert list to SQL DB
